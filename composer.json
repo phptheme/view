@@ -1,0 +1,9 @@
+{
+    "name": "phptheme/view",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PhpTheme\\View\\" : ""
+        }
+    }
+}
